@@ -1,1 +1,1 @@
-# tech_wiz_js
+ Adding  some fun javascript programs and games .
