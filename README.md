@@ -1,1 +1,1 @@
- Adding  some fun javascript programs and games .
+ This is a fun  small games using simple js 
